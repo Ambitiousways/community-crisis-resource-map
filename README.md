@@ -67,4 +67,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 Let's collaborate or discuss potential opportunities:
 
 **LinkedIn:** [linkedin.com/in/YOURUSERNAME](https://www.linkedin.com/in/shaniceadams)  
-**Email:** [firstflight217@gmail.com](mailto:firstflight217@gmail.com)
+**Email:** [shaniceadams@incessantsolutions.com](mailto:shaniceadams@incessantsolutions.com)
