@@ -3,7 +3,7 @@
 [![Streamlit App](https://img.shields.io/badge/View%20App-Streamlit-FF4B4B?logo=streamlit)](https://your-username.streamlit.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
-[![LinkedIn Profile](https://img.shields.io/badge/Connect-Linkedin-blue)](https://www.linkedin.com/in/YOURUSERNAME)
+[![LinkedIn Profile](https://img.shields.io/badge/Connect-Linkedin-blue)](https://www.linkedin.com/in/shaniceadams)
 
 > A public-access tool to locate food banks, shelters, and crisis services using a simple, interactive map built with Streamlit and Python.
 
@@ -66,5 +66,5 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 Let's collaborate or discuss potential opportunities:
 
-**LinkedIn:** [linkedin.com/in/YOURUSERNAME](https://www.linkedin.com/in/YOURUSERNAME)  
-**Email:** [youremail@example.com](mailto:youremail@example.com)
+**LinkedIn:** [linkedin.com/in/YOURUSERNAME](https://www.linkedin.com/in/shaniceadams)  
+**Email:** [firstflight217@gmail.com](mailto:firstflight217@gmail.com)
